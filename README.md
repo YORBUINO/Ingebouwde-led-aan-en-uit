@@ -1,2 +1,2 @@
-# Ingebouwde-led-aan/uit doen.
+# Ingebouwde-led-aan en uit doen.
 
